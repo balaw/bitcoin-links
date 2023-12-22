@@ -7,6 +7,7 @@ https://git.davepedu.com/dave/docker-cagecoin/commit/52dee379165ad79f12b2f2021fe
 
 https://github.com/vinced/namecoin/tree/mergedmine
 https://github.com/obulpathi/bitcoinpy/tree/master
+https://python.hotexamples.com/examples/bitcoin.core/CBlock/nBits/python-cblock-nbits-method-examples.html
 
 =======================
 ```js
