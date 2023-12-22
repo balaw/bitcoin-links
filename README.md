@@ -1,17 +1,21 @@
 # bitcoin-links
-
+```js
 https://bitcoinmedia.id/cara-membuat-cryptocurrency-sendiri/
-
-
+```
+```js
 https://git.davepedu.com/dave/docker-cagecoin/commit/52dee379165ad79f12b2f2021fe3c10b1fc81902.diff
-
+```
+```js
 https://github.com/vinced/namecoin/tree/mergedmine
+```
 ##
+```js
 https://github.com/obulpathi/bitcoinpy/tree/master
+```
 ```js
 https://python.hotexamples.com/examples/bitcoin.core/CBlock/nBits/python-cblock-nbits-method-examples.html
 ```
-=======================
+
 ```js
 
 sudo apt-get install git
